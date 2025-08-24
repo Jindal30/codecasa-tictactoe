@@ -29,5 +29,3 @@ Try it now:
 | CSS3           | Styling and responsive design               |
 | JavaScript     | Game logic, move handling, and reset action |
 | GitHub Pages   | Free hosting and deployment                 |
-# Open the game in your browser
-open index.html   # or just double-click the file
